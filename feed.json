@@ -7,13 +7,75 @@
 	"items": [
 		
 			{
+				"id": "http://umerez.micro.blog/2023/11/26/trying-out-the.html",
+				
+				"content_html": "<p>Trying out the <code>Set Date</code> feature in <a href=\"https://red-sweater.com/marsedit\">MarsEdit</a> to schedule the publishing of posts. If this works correctly, it should show up at 18:15 (I&rsquo;m sending it at 18:10).</p>\n",
+				"content_text": "Trying out the `Set Date` feature in [MarsEdit](https://red-sweater.com/marsedit) to schedule the publishing of posts. If this works correctly, it should show up at 18:15 (I'm sending it at 18:10).\n",
+				"date_published": "2023-11-26T18:15:00+01:00",
+				"url": "https://umerez.eu/2023/11/26/trying-out-the.html",
+				"tags": ["english"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/11/26/i-did-what.html",
+				
+				"content_html": "<p>I did what <!-- raw HTML omitted --><a href=\"https://micro.blog/sod\">@sod</a><!-- raw HTML omitted --> told us not to do, so you don&rsquo;t have to. Now you know, you don&rsquo;t have to and should not <!-- raw HTML omitted -->click here<!-- raw HTML omitted -->.</p>\n",
+				"content_text": "I did what <a href=\"https://micro.blog/sod\" target=\"_blank\" title=\"\">[@sod](https://micro.blog/sod)</a> told us not to do, so you don't have to. Now you know, you don't have to and should not <a href=\"https://www.fromjason.xyz/p/stories/s/oddities/shame-fish/\" target=\"_blank\" title=\"\">click here</a>.\n",
+				"date_published": "2023-11-26T15:15:35+01:00",
+				"url": "https://umerez.eu/2023/11/26/i-did-what.html",
+				"tags": ["english"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/11/26/hiro-reporthttpshiroreport.html",
+				"title": "Hiro Report",
+				"content_html": "<p>If you don&rsquo;t know <a href=\"https://micro.blog/hiro\">@hiro</a>&rsquo;s blog, you&rsquo;re missing out on tons of interesting stuff.</p>\n<p><a href=\"https://hiro.report\">Hiro Report</a> delivers lots of different site recommendations, every week. Not a single week goes by without something interesting, useful or outright fun. And going through past reports is a joy, too.</p>\n<p>It&rsquo;s got tips, apps, movies, sites, hardware&hellip; lots and lots of surprising stuff.</p>\n<p>So thanks a lot for your weekly report, <a href=\"https://micro.blog/hiro\">@hiro</a>, I hope you continue bringing it to us and, above all, I hope it makes you famous and fulfills your plan to control the world 😂.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "If you don't know [@hiro](https://micro.blog/hiro)'s blog, you're missing out on tons of interesting stuff.\n\n[Hiro Report](https://hiro.report) delivers lots of different site recommendations, every week. Not a single week goes by without something interesting, useful or outright fun. And going through past reports is a joy, too.\n\nIt's got tips, apps, movies, sites, hardware... lots and lots of surprising stuff.\n\nSo thanks a lot for your weekly report, [@hiro](https://micro.blog/hiro), I hope you continue bringing it to us and, above all, I hope it makes you famous and fulfills your plan to control the world 😂.\n\n<style>\n    #miIframe {\n        background-color: #edf3f5; /* Color de fondo */\n        border: 2px solid #3988a7; /* Color de marco */\n        border-radius: 10px; /* Radio de marco */\n    }\n</style>\n<iframe id=\"miIframe\" src=\"https://hiro.report/\" width=\"600\" height=\"300\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\"></iframe>\n",
+				"date_published": "2023-11-26T12:12:05+01:00",
+				"url": "https://umerez.eu/2023/11/26/hiro-reporthttpshiroreport.html",
+				"tags": ["tech","english"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/11/26/me-he-cargado.html",
+				
+				"content_html": "<p>Me he cargado por completo el reloj mecánico de viaje así que inauguro nuevo proyecto: YouTube cómo montar reloj mecánico para idiotas.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Me he cargado por completo el reloj mecánico de viaje así que inauguro nuevo proyecto: YouTube cómo montar reloj mecánico para idiotas. \n\n<img src=\"uploads/2023/6f48fbf5b7504095aacf9b99c3795152.png\" style=\"width: 450px\" alt=\"Imagen de piezas de reloj mecánico de mesa desmontado. \">\n",
+				"date_published": "2023-11-26T11:12:04+01:00",
+				"url": "https://umerez.eu/2023/11/26/me-he-cargado.html"
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/11/24/we-will-always.html",
+				
+				"content_html": "<p>We will always love you, Freddie.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/Z1waL65aMOQ\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n<p>Farrokh Bulsara (5 September 1946 – 24 November 1991).</p>\n",
+				"content_text": "We will always love you, Freddie.\n\n{{< youtube Z1waL65aMOQ >}}\n\nFarrokh Bulsara (5 September 1946 – 24 November 1991).\n",
+				"date_published": "2023-11-24T07:09:15+01:00",
+				"url": "https://umerez.eu/2023/11/24/we-will-always.html",
+				"tags": ["english","nice stuff"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/11/23/enriquecimiento-injusto-para.html",
+				"title": "Enriquecimiento injusto para justificar el pago de servicios prestados sin contrato",
+				"content_html": "<p>Gracias a <a href=\"https://contratodeobras.com/sentencias-tribunales/#S0204\">Contrato de obras</a></p>\n<p><!-- raw HTML omitted -->Roi: STS 4480/2023 - ECLI:ES:TS:2023:4480<!-- raw HTML omitted --></p>\n<blockquote>\n<p>La cuestión de interés casacional objetivo para la formación de jurisprudencia que presenta este recurso,(…) consiste en determinar si se puede acudir a la doctrina del enriquecimiento injusto para el pago de facturas por servicios en casos en los que no está permitida la contratación verbal.</p>\n<p>La respuesta de la Sala a la cuestión de interés casacional (…) ha de ser la de reiterar la doctrina jurisprudencial que antes hemos expuesto, al no concurrir ninguna circunstancia en este recurso que nos lleva a su modificación. En consecuencia, mantenemos el criterio de que es posible acudir a la doctrina del enriquecimiento injusto o sin causa para el pago de facturas por servicios en los casos de contratación irregular o no permitida, como la contratación verbal, siempre que concurran los requisitos citados en los fundamentos de derecho anteriores, a los que nos remitimos, y que, en síntesis, consisten en la ganancia de uno, el correlativo empobrecimiento de otro, un nexo de causalidad entre ambas situaciones y la ausencia de causa justificativa, exigencias a las que se suma el requisito de singular importancia de la ausencia de mala fe en los términos antes expresados, es decir, es preciso que el desequilibrio esté constituido por prestaciones del particular que no se deban a su propia iniciativa ni revelen una voluntad maliciosa del mismo, sino que tengan su origen en hechos, dimanantes de la Administración pública, que hayan generado razonablemente en ese particular la creencia de que le incumbía un deber de colaboración con dicha Administración.</p>\n</blockquote>\n<p>Más información en <!-- raw HTML omitted -->Umerez Argaia, Esteban, <em>La restauración de la legalidad infringida por la contratación irregular</em>, Anuario Aragonés del Gobierno Local 2019, Zaragoza, 2020, pp. 437-497<!-- raw HTML omitted -->..</p>\n",
+				"content_text": "Gracias a [Contrato de obras](https://contratodeobras.com/sentencias-tribunales/#S0204)\n\n<a href=\"https://www.poderjudicial.es/search/AN/openDocument/d8a45d477eedfff4a0a8778d75e36f0d/20231110\" target=\"_blank\" title=\"\">Roi: STS 4480/2023 - ECLI:ES:TS:2023:4480</a>\n\n> La cuestión de interés casacional objetivo para la formación de jurisprudencia que presenta este recurso,(…) consiste en determinar si se puede acudir a la doctrina del enriquecimiento injusto para el pago de facturas por servicios en casos en los que no está permitida la contratación verbal.\n> \n> La respuesta de la Sala a la cuestión de interés casacional (…) ha de ser la de reiterar la doctrina jurisprudencial que antes hemos expuesto, al no concurrir ninguna circunstancia en este recurso que nos lleva a su modificación. En consecuencia, mantenemos el criterio de que es posible acudir a la doctrina del enriquecimiento injusto o sin causa para el pago de facturas por servicios en los casos de contratación irregular o no permitida, como la contratación verbal, siempre que concurran los requisitos citados en los fundamentos de derecho anteriores, a los que nos remitimos, y que, en síntesis, consisten en la ganancia de uno, el correlativo empobrecimiento de otro, un nexo de causalidad entre ambas situaciones y la ausencia de causa justificativa, exigencias a las que se suma el requisito de singular importancia de la ausencia de mala fe en los términos antes expresados, es decir, es preciso que el desequilibrio esté constituido por prestaciones del particular que no se deban a su propia iniciativa ni revelen una voluntad maliciosa del mismo, sino que tengan su origen en hechos, dimanantes de la Administración pública, que hayan generado razonablemente en ese particular la creencia de que le incumbía un deber de colaboración con dicha Administración.  \n\nMás información en <a href=\"https://ifc.dpz.es/recursos/publicaciones/38/49/15umerez.pdf\" target=\"_blank\" title=\"\">Umerez Argaia, Esteban, *La restauración de la legalidad infringida por la contratación irregular*, Anuario Aragonés del Gobierno Local 2019, Zaragoza, 2020, pp. 437-497</a>..\n",
+				"date_published": "2023-11-23T23:24:58+01:00",
+				"url": "https://umerez.eu/2023/11/23/enriquecimiento-injusto-para.html",
+				"tags": ["blog legal","contratos publicos"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/11/23/i-just-updated.html",
+				
+				"content_html": "<p>I just updated my blog&rsquo;s header with <a href=\"https://fontawesome.com/v4.7.0/icons/\">Font Awesome icons</a> following this tutorial by <a href=\"https://micro.blog/manton\">@manton</a> and I love it.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/c6pn4jGonGI\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "I just updated my blog's header with [Font Awesome icons](https://fontawesome.com/v4.7.0/icons/) following this tutorial by [@manton](https://micro.blog/manton) and I love it.\n\n{{< youtube c6pn4jGonGI >}}\n\n",
+				"date_published": "2023-11-23T20:55:56+01:00",
+				"url": "https://umerez.eu/2023/11/23/i-just-updated.html",
+				"tags": ["tech","english"]
+			},
+			{
 				"id": "http://umerez.micro.blog/2023/11/18/shortcut-to-open.html",
 				
 				"content_html": "<h1 id=\"shortcut-to-open-lillihub\">Shortcut to open Lillihub</h1>\n<p>I made a very simple Shortcut to open Lillihub in Safari on my iPhone. It looks for a previously existing tab that may have Lillihub open and, if that’s the case, goes to that tab. If there’s none, it opens Lillihub. Once again, thanks so much to <a href=\"https://lillihub.com/app/timeline?name=heyloura\">Loura</a> for building such a nice service.  #tech</p>\n<p>You can install and try it here;</p>\n<p><a href=\"https://www.icloud.com/shortcuts/386b16c8bf1b4fa1a72e22224902bc0a\">www.icloud.com/shortcuts&hellip;</a></p>\n",
 				"content_text": "# Shortcut to open Lillihub\n\nI made a very simple Shortcut to open Lillihub in Safari on my iPhone. It looks for a previously existing tab that may have Lillihub open and, if that’s the case, goes to that tab. If there’s none, it opens Lillihub. Once again, thanks so much to [Loura](https://lillihub.com/app/timeline?name=heyloura) for building such a nice service.  #tech\n\nYou can install and try it here;\n\n[www.icloud.com/shortcuts...](https://www.icloud.com/shortcuts/386b16c8bf1b4fa1a72e22224902bc0a)\n",
 				"date_published": "2023-11-18T21:42:40+01:00",
 				"url": "https://umerez.eu/2023/11/18/shortcut-to-open.html",
-				"tags": ["tech"]
+				"tags": ["tech","english"]
 			},
 			{
 				"id": "http://umerez.micro.blog/2023/11/18/la-revisin-excepcional.html",
