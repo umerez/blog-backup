@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://umerez.micro.blog/2023/12/07/yeah-i-blog.html",
+				"title": "Yeah, I blog too",
+				"content_html": "<p>🚀 <a href=\"https://blog.ayjay.org/bring-back-the-blog/\">bring back the blog – The Homebound Symphony</a></p>\n<blockquote>\n<p>Now that the white-hot fire of Twitter is burning itself out, and its various alternatives (Threads, Bluesky, Mastodon) are generating merely gentle (or sputtering) flames, and TikTok (which is not a social-media site in any meaningful sense but rather a media-consumption platform) is still going nova, this is the time for people to rediscover the pleasures of blogging – of writing at whatever length you want, and posting photos, and embedding videos, and linking to music playlists, all on your little corner of the internet.</p>\n</blockquote>\n<p>That&rsquo;s exactly what I try to do with this little corner of mine, so I&rsquo;m happy to belong somewhere, at last.</p>\n",
+				"content_text": "🚀 [bring back the blog – The Homebound Symphony](https://blog.ayjay.org/bring-back-the-blog/)\n\n> Now that the white-hot fire of Twitter is burning itself out, and its various alternatives (Threads, Bluesky, Mastodon) are generating merely gentle (or sputtering) flames, and TikTok (which is not a social-media site in any meaningful sense but rather a media-consumption platform) is still going nova, this is the time for people to rediscover the pleasures of blogging – of writing at whatever length you want, and posting photos, and embedding videos, and linking to music playlists, all on your little corner of the internet.\n\nThat's exactly what I try to do with this little corner of mine, so I'm happy to belong somewhere, at last.\n",
+				"date_published": "2023-12-07T15:17:37+01:00",
+				"url": "https://umerez.eu/2023/12/07/yeah-i-blog.html",
+				"tags": ["tech","english"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/12/06/nick-cave-about.html",
+				"title": "Nick Cave about ChatGPT and AI, in the voice of Stephen Fry",
+				"content_html": "<!-- raw HTML omitted -->\n<p>I still think AI will be a good tool for mortal humans and an even better creativity booster in the hands of Artists, but these words by Nick Cave deserve to be reflected upon, because the risks are enormous too.</p>\n",
+				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/iGJcF4bLKd4?si=-OWr59N5GTIVmNfw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nI still think AI will be a good tool for mortal humans and an even better creativity booster in the hands of Artists, but these words by Nick Cave deserve to be reflected upon, because the risks are enormous too.\n",
+				"date_published": "2023-12-06T11:45:27+01:00",
+				"url": "https://umerez.eu/2023/12/06/nick-cave-about.html",
+				"tags": ["tech","english"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/12/04/i-had-forgotten.html",
+				
+				"content_html": "<p>I had forgotten how cool <a href=\"https://gluon.app/\">Gluon</a> by <a href=\"https://vincentritter.com/\">@vincent</a> is. Reinstalled it and set it to be the default in my “open micro.blog” Shortcut. It’s a delight.</p>\n<p><img src=\"https://umerez.eu/uploads/2023/96b8e5e558.jpg\" alt=\"Gluon app icon\"></p>\n",
+				"content_text": "I had forgotten how cool [Gluon](https://gluon.app/) by [@vincent](https://vincentritter.com/) is. Reinstalled it and set it to be the default in my “open micro.blog” Shortcut. It’s a delight. \n\n![Gluon app icon](https://umerez.eu/uploads/2023/96b8e5e558.jpg)\n",
+				"date_published": "2023-12-04T09:09:56+01:00",
+				"url": "https://umerez.eu/2023/12/04/i-had-forgotten.html",
+				"tags": ["tech","english"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/12/03/typora-supports-mermaid.html",
+				"title": "Typora supports Mermaid diagrams and charts in Markdown",
+				"content_html": "<p><a href=\"https://typora.io/\">Typora</a> is a great <a href=\"https://daringfireball.net/projects/markdown/\">Markdown</a> tool and text editor and it never ceases to amaze me.</p>\n<p>I was trying how DEVONthink handles <a href=\"https://mermaid.js.org/\">Mermaid</a> to render diagrams and graphic charts in Markdown, and I opened an example file in my Markdown-tool of choice, Typora, and found that this magnificent app supports Mermaid natively. So here&rsquo;s a couple of screenshots.</p>\n<p>The first one shows the Mermaid code and the resulting image:</p>\n<!-- raw HTML omitted -->\n<p>And here are more examples.</p>\n<!-- raw HTML omitted -->\n<p>I&rsquo;m in love with Typora. I&rsquo;ve previously written about it here too: <!-- raw HTML omitted -->How to insert images in Typora<!-- raw HTML omitted -->.</p>\n",
+				"content_text": "[Typora](https://typora.io/) is a great [Markdown](https://daringfireball.net/projects/markdown/) tool and text editor and it never ceases to amaze me.\n\nI was trying how DEVONthink handles [Mermaid](https://mermaid.js.org/) to render diagrams and graphic charts in Markdown, and I opened an example file in my Markdown-tool of choice, Typora, and found that this magnificent app supports Mermaid natively. So here's a couple of screenshots.\n\nThe first one shows the Mermaid code and the resulting image:\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://umerez.eu/uploads/2023/2023-12-03-19.21.08-captura-typora.png\" alt=\"Image of the Mermaid code to render a pie chart in a Markdown file, followed by the rendered pie chart\" title=\"2023-12-03 19.21.08 captura Typora.png\" border=\"0\" width=\"400\" height=\"317\" />\n\nAnd here are more examples.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://umerez.eu/uploads/2023/2023-12-03-19.18.53-captura-typora.png\" alt=\"Image of different diagram examples: two flow charts and different pie charts\" title=\"2023-12-03 19.18.53 captura Typora.png\" border=\"0\" width=\"241\" height=\"600\" />\n\nI'm in love with Typora. I've previously written about it here too: <a href=\"https://umerez.eu/2023/03/04/how-to-insert.html\" target=\"_blank\" title=\"\">How to insert images in Typora</a>. \n",
+				"date_published": "2023-12-03T19:33:05+01:00",
+				"url": "https://umerez.eu/2023/12/03/typora-supports-mermaid.html",
+				"tags": ["productividad","tech","english"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2023/12/03/joaquin-sevilla-sobre.html",
+				"title": "Joaquin Sevilla sobre la prohibición de móviles",
+				"content_html": "<p>🚀 <a href=\"https://joaquinsevilla.blogspot.com/2023/12/moviles-y-lapices-que-prohibir.html\">Joaquin Sevilla Moróder: Móviles y lápices que prohibir</a></p>\n<blockquote>\n<p>Esa carne de prohibición, los jóvenes menores de 16 en la escuela, usan el móvil como ven hacerlo a sus mayores: en cualquier momento y de cualquier forma para cualquier cosa. (&hellip;)</p>\n<p>Como le leía a un amigo en una red social hace un par de días, no deja de ser fascinante que tengamos un movimiento de personas reclamando que la ley le prohíba a sus hijas e hijos usar los dispositivos que ellos les han comprado y no son capaces de enseñarles a utilizar.</p>\n</blockquote>\n<p>En esas dos frases está la clave, en mi opinión. Pero leed el post entero y que rule el blog de Joaquín, que para eso lo mantiene<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>I&rsquo;m trying to see if Bigfoot Footnotes work in my Tiny Theme setup.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "🚀 [Joaquin Sevilla Moróder: Móviles y lápices que prohibir](https://joaquinsevilla.blogspot.com/2023/12/moviles-y-lapices-que-prohibir.html)\n\n> Esa carne de prohibición, los jóvenes menores de 16 en la escuela, usan el móvil como ven hacerlo a sus mayores: en cualquier momento y de cualquier forma para cualquier cosa. (...)\n> \n> Como le leía a un amigo en una red social hace un par de días, no deja de ser fascinante que tengamos un movimiento de personas reclamando que la ley le prohíba a sus hijas e hijos usar los dispositivos que ellos les han comprado y no son capaces de enseñarles a utilizar.\n\nEn esas dos frases está la clave, en mi opinión. Pero leed el post entero y que rule el blog de Joaquín, que para eso lo mantiene[^1].\n\n[^1]: I'm trying to see if Bigfoot Footnotes work in my Tiny Theme setup.\n",
+				"date_published": "2023-12-03T08:25:55+01:00",
+				"url": "https://umerez.eu/2023/12/03/joaquin-sevilla-sobre.html",
+				"tags": ["sociedad"]
+			},
+			{
 				"id": "http://umerez.micro.blog/2023/12/02/star-wars-eta.html",
 				"title": "Star Wars eta Millenium Falcon maitatzea noraino irits daitekeen",
 				"content_html": "<p>Ene, aho zabalik jarraitzen dut lan zoragarri hau ikusi eta gero.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/KlRfXo3SC_k\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n<p><!-- raw HTML omitted -->John Gruber-en Daring Fireball<!-- raw HTML omitted --> orriari esker ezagutu dut. Hiroshi Sumi (<!-- raw HTML omitted -->@kyabetsumade<!-- raw HTML omitted -->) da egilea.</p>\n<p>Bideoa ikusi lehendabizi, eta gero Gruber-en orrira jo pare bat bitxikeri gehiago ikusteko. Baina lehendabizi bideoaz gozatu.</p>\n<p><!-- raw HTML omitted -->Leer esto en Español.<!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Read this in English.<!-- raw HTML omitted --></p>\n",
-				"content_text": "Ene, aho zabalik jarraitzen dut lan zoragarri hau ikusi eta gero.\n\n{{< youtube KlRfXo3SC_k >}}\n\n<a href=\"[John Gruber-en Daring Fireball](https://daringfireball.net/linked/2023/12/01/voice-of-a-star-wars-fan)\" target=\"_blank\" title=\"\">John Gruber-en Daring Fireball</a> orriari esker ezagutu dut. Hiroshi Sumi (<a href=\"https://twitter.com/kyabetsumade\" target=\"_blank\" title=\"\">@kyabetsumade</a>) da egilea.\n\nBideoa ikusi lehendabizi, eta gero Gruber-en orrira jo pare bat bitxikeri gehiago ikusteko. Baina lehendabizi bideoaz gozatu.\n\n<a href=\"https://translate.google.com/#origin_language_or_auto|es|Star Wars eta Millenium Falcon maitatzea noraino irits daitekeen. Aho zabalik jarraitzen dut lan zoragarri hau ikusi eta gero. John Gruber-en Daring Fireball orriari esker ezagutu dut. Hiroshi Sumi da egilea. Bideoa ikusi lehendabizi, eta gero Gruber-en orrira jo pare bat bitxikeri gehiago ikusteko. Baina lehendabizi bideoaz gozatu.\" target=\"_blank\" title=\"Traducir a español\">Leer esto en Español.</a>\n\n<a href=\"https://translate.google.com/#origin_language_or_auto|en|Star Wars eta Millenium Falcon maitatzea noraino irits daitekeen. Aho zabalik jarraitzen dut lan zoragarri hau ikusi eta gero. John Gruber-en Daring Fireball orriari esker ezagutu dut.  Hiroshi Sumi da egilea. Bideoa ikusi lehendabizi, eta gero Gruber-en orrira jo pare bat bitxikeri gehiago ikusteko. Baina lehendabizi bideoaz gozatu.\" target=\"_blank\" title=\"Translate into English\">Read this in English.</a>\n",
+				"content_text": "Ene, aho zabalik jarraitzen dut lan zoragarri hau ikusi eta gero.\n\n{{< youtube KlRfXo3SC_k >}}\n\n<a href=\"https://daringfireball.net/linked/2023/12/01/voice-of-a-star-wars-fan\" target=\"_blank\" title=\"\">John Gruber-en Daring Fireball</a> orriari esker ezagutu dut. Hiroshi Sumi (<a href=\"https://twitter.com/kyabetsumade\" target=\"_blank\" title=\"\">@kyabetsumade</a>) da egilea.\n\nBideoa ikusi lehendabizi, eta gero Gruber-en orrira jo pare bat bitxikeri gehiago ikusteko. Baina lehendabizi bideoaz gozatu.\n\n<a href=\"https://translate.google.com/#origin_language_or_auto|es|Star Wars eta Millenium Falcon maitatzea noraino irits daitekeen. Aho zabalik jarraitzen dut lan zoragarri hau ikusi eta gero. John Gruber-en Daring Fireball orriari esker ezagutu dut. Hiroshi Sumi da egilea. Bideoa ikusi lehendabizi, eta gero Gruber-en orrira jo pare bat bitxikeri gehiago ikusteko. Baina lehendabizi bideoaz gozatu.\" target=\"_blank\" title=\"Traducir a español\">Leer esto en Español.</a>\n\n<a href=\"https://translate.google.com/#origin_language_or_auto|en|Star Wars eta Millenium Falcon maitatzea noraino irits daitekeen. Aho zabalik jarraitzen dut lan zoragarri hau ikusi eta gero. John Gruber-en Daring Fireball orriari esker ezagutu dut.  Hiroshi Sumi da egilea. Bideoa ikusi lehendabizi, eta gero Gruber-en orrira jo pare bat bitxikeri gehiago ikusteko. Baina lehendabizi bideoaz gozatu.\" target=\"_blank\" title=\"Translate into English\">Read this in English.</a>\n",
 				"date_published": "2023-12-02T09:24:17+01:00",
 				"url": "https://umerez.eu/2023/12/02/star-wars-eta.html",
 				"tags": ["tech","nice stuff"]
@@ -61,8 +106,8 @@
 			{
 				"id": "http://umerez.micro.blog/2023/11/30/insistir-en-la.html",
 				
-				"content_html": "<blockquote>\n<p>Insistir en la utilización de los signos de interrogación y exclamación de apertura y la coma del vocativo conduce a la melancolía.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
-				"content_text": "> Insistir en la utilización de los signos de interrogación y exclamación de apertura y la coma del vocativo conduce a la melancolía.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://umerez.eu/uploads/2023/ortegagasset.jpg\" alt=\"José Ortega y Gasset\" title=\"ortegagasset.jpg\" border=\"0\" width=\"431\" height=\"600\" />\n",
+				"content_html": "<blockquote>\n<p>Insistir en la utilización de los signos de interrogación y exclamación de apertura y la coma del vocativo conduce a la melancolía <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>José Ortega y Gasset (Madrid, 9 de mayo de 1883-18 de octubre de 1955). Cita no exacta.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "> Insistir en la utilización de los signos de interrogación y exclamación de apertura y la coma del vocativo conduce a la melancolía [^1].\n\n[^1]: José Ortega y Gasset (Madrid, 9 de mayo de 1883-18 de octubre de 1955). Cita no exacta.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/56038/2023/ortegagasset.jpg\" alt=\"José Ortega y Gasset\" title=\"ortegagasset.jpg\" border=\"0\" width=\"431\" height=\"600\" />\n",
 				"date_published": "2023-11-30T18:39:20+01:00",
 				"url": "https://umerez.eu/2023/11/30/insistir-en-la.html"
 			},
@@ -353,7 +398,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I don’t know, man. I have experienced some glitch every now and then, but the truth is I have amped up my Shortcut use in the last months and I’m constantly finding new ways to take advantage of this system. I have 235 shortcuts right now and I can fairly say I use 30-40 of them regularly. <a href=\"https://mastodon.macstories.net/@viticci/111377915253844878\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.macstories.net/@vitic</span><span class=\"invisible\">ci/111377915253844878</span></a></p>\n",
 				"date_published": "2023-11-09T18:05:43+01:00",
-				"url": "https://umerez.eu/2023/11/09/i-dont-know.html"
+				"url": "https://umerez.eu/2023/11/09/i-dont-know.html",
+				"tags": ["shortcuts"]
 			},
 			{
 				"id": "http://umerez.micro.blog/2023/11/09/lo-guardo-aqu.html",
@@ -412,7 +458,7 @@
 				"content_text": "🚀 <a href=\"https://leancrew.com/all-this/2023/10/dictation-automation/\" class=\"u-in-reply-to\">Dictation automation - All this</a>\n\n> Since my goal is to add entries to the index right after writing them in the notebook, I have Shortcuts get and format the date for me in the first two steps. Step 3 brings up the dictation UI and records my description of the note. Step 4 combines the date, dictated text, and a trailing linefeed into a chunk of text that Step 5 then appends to the index file. The file is named “Notebook index.txt,” and it’s stored in a folder named “personal” in the root directory of iCloud Drive. Dictation errors can be fixed in either BBEdit on my Mac or Textastic on my phone.\n\nI struggle with dictation and voice control. I really think that the system works well in English and it’s not so reliable in Spanish. But people like Dr. Drang or Macsparky always make me want to make dictation work.  #tech\n",
 				"date_published": "2023-11-07T23:24:22+01:00",
 				"url": "https://umerez.eu/2023/11/07/dictation-automation-all.html",
-				"tags": ["tech"]
+				"tags": ["tech","shortcuts"]
 			},
 			{
 				"id": "http://umerez.micro.blog/2023/11/07/lo-que-estoy.html",
@@ -436,9 +482,10 @@
 				"id": "http://umerez.micro.blog/2023/11/07/193255.html",
 				
 				"content_html": "<p>🔗 <!-- raw HTML omitted -->Publish to Micro.blog - HeyDingus<!-- raw HTML omitted --></p>\n<blockquote>\n<h1 id=\"publish-to-microblog\">Publish to Micro.blog</h1>\n<h5 id=\"use-apple-shortcuts-to-publish-text-to-your-microblog-without-any-frills\">Use Apple Shortcuts to publish text to your Micro.blog without any frills.</h5>\n<p>This shortcut uses the <a href=\"https://help.micro.blog/t/posting-api/96\">Micropub API</a> to publish text passed into it to the default blog on your Micro.blog account. It’s best used as a function that is run from another shortcut.</p>\n<p>Take note that there is <strong>no preview</strong> of the published text with this shortcut so that it can be as streamlined as possible. Check over your post before running the shortcut, or use a preview action in whichever workflow sends text to it.</p>\n</blockquote>\n<p>Look, <a href=\"https://micro.blog/jarrod\">@jarrod</a>, I did it!</p>\n",
-				"content_text": "🔗 <a href=\"https://heydingus.net/shortcuts/publish-to-microblog\" class=\"u-in-reply-to\">Publish to Micro.blog - HeyDingus</a>\r\n\r\n> # Publish to Micro.blog\r\n> \r\n> ##### Use Apple Shortcuts to publish text to your Micro.blog without any frills.\r\n> \r\n> This shortcut uses the [Micropub API](https://help.micro.blog/t/posting-api/96) to publish text passed into it to the default blog on your Micro.blog account. It’s best used as a function that is run from another shortcut.\r\n> \r\n> Take note that there is **no preview** of the published text with this shortcut so that it can be as streamlined as possible. Check over your post before running the shortcut, or use a preview action in whichever workflow sends text to it.\r\n\r\nLook, [@jarrod](https://micro.blog/jarrod), I did it!\n",
+				"content_text": "🔗 <a href=\"https://heydingus.net/shortcuts/publish-to-microblog\" class=\"u-in-reply-to\">Publish to Micro.blog - HeyDingus</a>\n\n> # Publish to Micro.blog\n> \n> ##### Use Apple Shortcuts to publish text to your Micro.blog without any frills.\n> \n> This shortcut uses the [Micropub API](https://help.micro.blog/t/posting-api/96) to publish text passed into it to the default blog on your Micro.blog account. It’s best used as a function that is run from another shortcut.\n> \n> Take note that there is **no preview** of the published text with this shortcut so that it can be as streamlined as possible. Check over your post before running the shortcut, or use a preview action in whichever workflow sends text to it.\n\nLook, [@jarrod](https://micro.blog/jarrod), I did it!\n",
 				"date_published": "2023-11-07T19:32:55+01:00",
-				"url": "https://umerez.eu/2023/11/07/193255.html"
+				"url": "https://umerez.eu/2023/11/07/193255.html",
+				"tags": ["shortcuts"]
 			},
 			{
 				"id": "http://umerez.micro.blog/2023/11/06/cmo-obtener-el.html",
@@ -2182,14 +2229,6 @@
 				"content_text": "<p>Pues así se van 15 años de Twitter. Dejé también Facebook hace unos 8 años y no pasó nada, así que es probable que tampoco pase nada con Twitter.</p><p><img src=\"https://sb-esq-social.b-cdn.net/media_attachments/files/109/802/515/060/795/079/original/60558e2a9adac0a2.jpeg\">\n",
 				"date_published": "2023-02-03T20:43:39+01:00",
 				"url": "https://umerez.eu/2023/02/03/pues-as-se.html"
-			},
-			{
-				"id": "http://umerez.micro.blog/2023/02/03/maurice-hi-maurice.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><span class=\"h-card\"><a href=\"https://vincode.io/activitypub/maurice\" class=\"u-url mention\">@<span>maurice</span></a></span> Hi, Maurice. I hope you are active in this account. I’m trying Humboldt shortcuts. The two basic shortcuts I installed from your blog actually work, but they show this ‘unknown action’ and I can’t find the actions in the Shortcuts list. What am I missing? Thanks :)</p>\n",
-				"date_published": "2023-02-03T20:19:47+01:00",
-				"url": "https://umerez.eu/2023/02/03/maurice-hi-maurice.html"
 			},
 			{
 				"id": "http://umerez.micro.blog/2023/02/03/urdiain-ongi-etorri.html",
@@ -4133,8 +4172,7 @@
 				"content_html": "<p>Let&rsquo;s see how this Mars Edit short post shows in Micro.blog, and whether it publishes to Twitter automatically.</p>\n",
 				"content_text": "Let's see how this Mars Edit short post shows in Micro.blog, and whether it publishes to Twitter automatically.\n",
 				"date_published": "2021-12-06T23:59:33+01:00",
-				"url": "https://umerez.eu/2021/12/06/trying-out-mars.html",
-				"tags": ["fiscal"]
+				"url": "https://umerez.eu/2021/12/06/trying-out-mars.html"
 			},
 			{
 				"id": "http://umerez.micro.blog/2021/12/06/i-want-to.html",
@@ -4142,8 +4180,7 @@
 				"content_html": "<p>I want to use Mars Edit because I like desktop apps and they help me get my stuff done, but my blog is hosted in Squarespace and they don&rsquo;t work together. Migrating my blog to some other place seems like too much work, something I may think about if I get a few days' vacation during Christmas.</p>\n<p>Update (2021-12-06): I just connected Mars Edit to my microblog and I am editing this post right away.</p>\n",
 				"content_text": "I want to use Mars Edit because I like desktop apps and they help me get my stuff done, but my blog is hosted in Squarespace and they don't work together. Migrating my blog to some other place seems like too much work, something I may think about if I get a few days' vacation during Christmas.\n\nUpdate (2021-12-06): I just connected Mars Edit to my microblog and I am editing this post right away.\n",
 				"date_published": "2021-12-06T10:50:04+01:00",
-				"url": "https://umerez.eu/2021/12/06/i-want-to.html",
-				"tags": ["fiscal"]
+				"url": "https://umerez.eu/2021/12/06/i-want-to.html"
 			},
 			{
 				"id": "http://umerez.micro.blog/2021/12/06/im-still-trying.html",
@@ -4151,8 +4188,7 @@
 				"content_html": "<p>I&rsquo;m still trying to figure out what to do. I write in Spanish about the law in umerez.eu, but I want a place to write short texts to register my tips. Everything becomes a big project, though, why can&rsquo;t I just write and see where this takes me to.</p>\n",
 				"content_text": "I'm still trying to figure out what to do. I write in Spanish about the law in umerez.eu, but I want a place to write short texts to register my tips. Everything becomes a big project, though, why can't I just write and see where this takes me to.\n",
 				"date_published": "2021-12-06T10:47:30+01:00",
-				"url": "https://umerez.eu/2021/12/06/im-still-trying.html",
-				"tags": ["fiscal"]
+				"url": "https://umerez.eu/2021/12/06/im-still-trying.html"
 			},
 			{
 				"id": "http://umerez.micro.blog/2021/12/05/puede-un-competidor.html",
