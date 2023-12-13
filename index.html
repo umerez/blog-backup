@@ -6,7 +6,7 @@
 
   <title>
       
-      Esteban Umerez Blog
+      umerez.eu
       
   </title>
 
@@ -21,6 +21,302 @@
 <div class="h-feed">
 
 	
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://umerez.eu/2023/12/12/emilio-aparicio-y.html">Emilio Aparicio y su Newsletter son una joya</a></h1>
+		
+
+		<a href="https://umerez.eu/2023/12/12/emilio-aparicio-y.html" class="u-url"><time class="dt-published" datetime="2023-12-12 08:07:55 &#43;0100">Dec 12, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Les voy a contar una cosa. Que muchos ya conocerán, pero que espero que sirva de ayuda a otros. Hace tiempo que el SEO no me rula bien así que es probable que esto lo lean cuatro y el del tambor.</p>
+<p>En cualquier caso, se la cuento porque quiero mostrar mi agradecimiento a <!-- raw HTML omitted -->Emilio Aparicio<!-- raw HTML omitted -->, abogado administrativista de Bilbao, por su <!-- raw HTML omitted -->web<!-- raw HTML omitted --> y por la <!-- raw HTML omitted -->Newsletter<!-- raw HTML omitted --> en la que recopila Autos de Admisión de recursos de casación y Sentencias de la Sala III del Tribunal Supremo.</p>
+<p>Cojan ustedes este método de Google: introduzcan en el buscador <code>site:emilioaparicio.eu</code> y las palabras de lo que necesiten buscar. Por ejemplo:</p>
+<p><code>site:emilioaparicio.eu revisión de oficio</code><br>
+<code>site:emilioaparicio.eu caducidad</code><br>
+<code>site:emilioaparicio.eu interinos</code></p>
+<p>Y se van a encontrar con una recopilación de artículos de Emilio de plena vigencia y actualidad, y con una relación de Newsletters en las que se recogen autos y sentencias relativas a esos términos que son una mina de información.</p>
+<p>Emilio, gracias.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://umerez.eu/2023/12/10/nota-sobre-los.html">Nota sobre los últimos cambios estéticos que le he hecho al blog</a></h1>
+		
+
+		<a href="https://umerez.eu/2023/12/10/nota-sobre-los.html" class="u-url"><time class="dt-published" datetime="2023-12-10 12:42:49 &#43;0100">Dec 10, 2023</time></a>
+
+		<div class="e-content">
+			 <p>A modo de recordatorio, tomo nota aquí de los cambios que he introducido en el blog estos días.</p>
+<p>He sustituido mi foto anterior por un avatar pixelado que he confeccionado en la web <!-- raw HTML omitted -->AVATARS IN PIXELS<!-- raw HTML omitted -->.</p>
+<p>He subido esta nueva imagen a mi cuenta de <!-- raw HTML omitted -->Gravatar<!-- raw HTML omitted -->. De esta forma, micro.blog se referencia por defecto al avatar de Gravatar y muestra este nuevo monigote. Para asegurarme de que esto sucede así, he borrado la fotografía que anteriormente había subido a la sección de <code>Account</code> de micro.blog.</p>
+<p>Hecho eso, me he dado cuenta de que el nuevo avatar aparecía integrado dentro de un marco circular azul. Esto es porque se le aplicaba este CSS que había personalizado para enmarcar las imágenes:</p>
+<pre tabindex="0"><code>img {
+    border: 2px solid #3988a7;
+    border-radius: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+</code></pre><p>Para excluir el avatar de ese atributo  y dejarlo sin ningún marco a su alrededor, he incluido este código en el CSS:</p>
+<pre tabindex="0"><code>img.profile_photo {
+	border: none;
+}
+</code></pre><p>El siguiente atributo es para centrar todo el encabezamiento en la página (avatar, título de la web y botones de navegación):</p>
+<pre tabindex="0"><code>.site-header {
+	text-align: center;
+}
+</code></pre><p>Finalmente, tenía ganas de volver a utilizar el logo de <code>umerez.eu</code> que diseñó <!-- raw HTML omitted -->Carola Clavo<!-- raw HTML omitted --> hace algún tiempo, por lo que he tenido que hacer lo siguiente:</p>
+<ul>
+<li>Cambiar el título de la web de <code>Esteban Umerez Blog</code> a <code>umerez.eu</code> en la sección de <code>Design</code> de la cuenta de micro.blog.</li>
+<li>Subir la tipografía utilizada por Carola (Quicsand Light) a la sección de <code>Uploads</code> y guardar su URL.</li>
+<li>Incluir el siguiente código CSS.</li>
+</ul>
+<pre tabindex="0"><code>@font-face {
+	font-family: 'UmerezQuicksandLight';
+	src: url('https://[ruta de la fuente tipográfica]') format('opentype');
+}
+h1 {
+	font-family: 'UmerezQuicksandLight';
+	font-weight: 100;
+}
+</code></pre><p>El primer atributo <code>@font-face</code> es para incluir la referencia a la tipografía previamente subida a la web, de forma que luego cada elemnto pueda referirse a esa nueva familia de fuentes.</p>
+<p>Los atributos <code>format('opentype')</code> y <code>font-weight: 100;</code> han sido fundamentales, porque de otra forma el título no se mostraba correctamente. Sin el formato adecuado, no se mostraba la nueva fuente sino que renderizaba una por defecto del CSS principal (Times New Roman, si no me equivoco). Y sin el peso <code>font-weight</code> adecuado, se mostraba la tipografía Quicksand en negrita.</p>
+<p>No he podido cambiarle el color. He usado distintos atributos, tanto en el título <code>h1</code> como en el <code>site-header</code> pero no ha funcionado. Se muestra en negro y cambiar color azul deseado (<code>#3988a7</code>) cuando se pasa el ratón por encima. Lo volveré a intentar en otra ocasión.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://umerez.eu/2023/12/10/aquella.html">Aquella</a></h1>
+		
+
+		<a href="https://umerez.eu/2023/12/10/aquella.html" class="u-url"><time class="dt-published" datetime="2023-12-10 00:11:59 &#43;0100">Dec 10, 2023</time></a>
+
+		<div class="e-content">
+			 <p>This is for <!-- raw HTML omitted -->Sarah Burstein<!-- raw HTML omitted -->, I thought she might like it. Sarah just tooted &ldquo;Se acabó&rdquo;, and she might not know that it&rsquo;s a song, an anthem, sang by <a href="https://es.wikipedia.org/wiki/Mar%C3%ADa_Jim%C3%A9nez">María Jiménez</a>, a strong woman and wonderful performer that lived a hard life and passed away a short while back.</p>
+<p>I was looking for &ldquo;Se acabó&rdquo; with proper lyrics translated to English, but I found this other song that I love. I wanted to share it with Sarah and with anybody else that just had enough, that want to shout &ldquo;Se acabó&rdquo;. The translation for the lyrics is below the video.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/4QP-Z7eJSos" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>That<br>
+Whom you loved so much<br>
+As long as it suited you, that one<br>
+That&rsquo;s still me</p>
+<p>The one<br>
+Who lifted you off the ground<br>
+The one who lifted you up to the sky, that one<br>
+That&rsquo;s still me</p>
+<p>The one<br>
+Who loved you beyond measure<br>
+And in her love left her life, that one<br>
+That&rsquo;s still me</p>
+<p>That one<br>
+The one whose story you tell is humiliating<br>
+The one you drag with the people of your class<br>
+And from whom with viciousness you stole her joy, ay</p>
+<p>Oh, that one<br>
+The one you threw away like a dog from your life<br>
+And because of you she is lost in the world<br>
+And for whom everyone still respects you</p>
+<p>But how badly I misjudged you<br>
+If you like garbage, but look how crazy<br>
+But for you it&rsquo;s all right<br>
+But how I miscalculated</p>
+<p>I thought you were so decent and you like it ordinary<br>
+For cheap or what do I know<br>
+And I don&rsquo;t sing of pain<br>
+I&rsquo;m not looking for someone to love me<br>
+Nor do I seek financial backing<br>
+I&rsquo;m not looking for someone to love me</p>
+<p>I, I am not a bill of exchange<br>
+Nor am I a currency to be given<br>
+That is given to anyone<br>
+Like a check to the bearer</p>
+<p>What I did thank you for<br>
+Is that you keep in mind<br>
+That I&rsquo;m not for sale<br>
+And much less for you<br>
+Love</p>
+<p>You&rsquo;re a businessman<br>
+You want everything with partners<br>
+Now I get it, I get it<br>
+You let me down so much</p>
+<p>I&rsquo;m leaving you a blank check<br>
+In your name, it&rsquo;s for you<br>
+For as much as you want<br>
+That where it says &ldquo;contempt&rdquo;<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
+That should be your price<br>
+And it&rsquo;s signed by me</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Contempt is &ldquo;desprecio&rdquo;, and rhymes with &ldquo;precio&rdquo; (price), so the price of the check is the contempt that María feels for the guy.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://umerez.eu/2023/12/09/adimen-naturalaren-edertasuna.html" class="u-url"><time class="dt-published" datetime="2023-12-09 23:32:28 &#43;0100">Dec 9, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Adimen naturalaren edertasuna.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/2SgFK2JS0vU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://umerez.eu/2023/12/09/acuerdo-europeo-para.html">Acuerdo europeo para regular la Inteligencia Artificial</a></h1>
+		
+
+		<a href="https://umerez.eu/2023/12/09/acuerdo-europeo-para.html" class="u-url"><time class="dt-published" datetime="2023-12-09 13:26:49 &#43;0100">Dec 9, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Conforme a la <!-- raw HTML omitted -->nota de prensa publicada este 09 de diciembre de 2023<!-- raw HTML omitted -->, miembros del Parlamento Europeo y del Consejo han llegado a un acuerdo político sobre el futuro Reglamento europeo que regulará las herramientas de Inteligencia Artificial (IA).</p>
+<p>El texto acordado tendrá que ser adoptado formalmente tanto por el Parlamento como por el Consejo para convertirse en Reglamento de la UE.</p>
+<p>Los objetivos perseguidos son ambiciosos:</p>
+<ul>
+<li>Garantizar que los derechos fundamentales, la democracia, el estado de derecho y la sostenibilidad ambiental estén protegidos de la IA de alto riesgo.</li>
+<li>Al mismo tiempo, impulsar la innovación y hacer de Europa un líder en este campo.</li>
+<li>Establecer el marco que permita a las empresas europeas, fundamentalmente las PYMEs, sacar un provecho adecuado de estas herramientas, prosperar y expandirse.</li>
+</ul>
+<p>Las reglas acordadas establecen obligaciones para la IA en función de sus riesgos potenciales y nivel de impacto. La nota de prensa destaca los siguientes aspectos:</p>
+<ul>
+<li><!-- raw HTML omitted -->1. Aplicaciones prohibidas<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->2. Excepciones para la persecución de delitos<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->3. Obligaciones para sistemas de alto riesgo<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->4. Salvaguardas para sistemas generales<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->5. Medidas para apoyar la innovación y las PYME<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->6. Sanciones<!-- raw HTML omitted --></li>
+</ul>
+<!-- raw HTML omitted -->
+<p>Debido a la amenaza potencial para los derechos de los ciudadanos y la democracia que plantean ciertas aplicaciones de la IA, los colegisladores han acordado prohibir las siguientes:</p>
+<ul>
+<li>Sistemas de categorización biométrica que utilizan características sensibles (por ejemplo, creencias políticas, religiosas, filosóficas, orientación sexual, raza);</li>
+<li>Scraping no selectivo de imágenes faciales de Internet o de videovigilancia para crear bases de datos de reconocimiento facial;</li>
+<li>Reconocimiento de emociones en el lugar de trabajo y en las instituciones educativas;</li>
+<li>Sistemas de puntuación social basada en el comportamiento social o las características personales;</li>
+<li>Sistemas de IA que manipulan el comportamiento humano para eludir su libre albedrío;</li>
+<li>Sistemas de IA dirigidos a explotar las vulnerabilidades de las personas (debido a su edad, discapacidad, situación social o económica).</li>
+</ul>
+<!-- raw HTML omitted -->
+<p>Se permitirán determinadas excepciones estrictas para el uso de sistemas de identificación biométrica (SIB) en espacios públicos con la finalidad de perseguir delitos.</p>
+<p>Estas excepciones estarán sujetas a autorización judicial previa y a listas de delitos estrictamente definidas.</p>
+<ul>
+<li>Los SIB <!-- raw HTML omitted -->ex post facto<!-- raw HTML omitted --> o &ldquo;en remoto&rdquo; se utilizarán únicamente para la búsqueda selectiva de una persona condenada o sospechosa de haber cometido un delito grave.</li>
+<li>Los SIB &ldquo;en tiempo real&rdquo; deberán cumplir condiciones estrictas y su uso será limitado en tiempo y ubicación, a los exclusivos fines de:
+<ul>
+<li>Búsquedas específicas de víctimas (secuestro, trata, explotación sexual),</li>
+<li>Prevención de una amenaza terrorista específica y presente,</li>
+<li>Localización o identificación de una persona sospechosa de haber cometido uno de los delitos específicos mencionados en el reglamento (por ejemplo, terrorismo, trata, explotación sexual, asesinato, secuestro, violación, robo a mano armada, participación en una organización criminal, delito ambiental).</li>
+</ul>
+</li>
+</ul>
+<!-- raw HTML omitted -->
+<p>He aquí algunos ejemplos de ámbitos en los que la utilización de la IA da lugar a la identificación de <!-- raw HTML omitted -->sistemas de IA de alto riesgo<!-- raw HTML omitted -->, debido a su daño potencial significativo a la salud, la seguridad, los derechos fundamentales, el medio ambiente, la democracia y el estado de derecho:</p>
+<ul>
+<li>Infraestructuras críticas (por ejemplo, el transporte), que podrían poner en peligro la vida y la salud de los ciudadanos;</li>
+<li>Formación educativa o profesional, que puede determinar el acceso a la educación y al curso profesional de la vida de una persona (por ejemplo, puntuación de los exámenes);</li>
+<li>Componentes de seguridad de los productos (por ejemplo, aplicación de IA en cirugía asistida por robot);</li>
+<li>Empleo, gestión de los trabajadores y acceso al trabajo por cuenta propia (por ejemplo, programas informáticos de selección de currículos para los procedimientos de contratación);</li>
+<li>Servicios públicos y privados esenciales (por ejemplo, calificación crediticia que deniegue a los ciudadanos la oportunidad de obtener un préstamo);</li>
+<li>Aplicación de la ley que pueda interferir con los derechos fundamentales de las personas (por ejemplo, evaluación de la fiabilidad de las pruebas);</li>
+<li>Gestión de la migración, el asilo y el control fronterizo (por ejemplo, verificación de la autenticidad de los documentos de viaje);</li>
+<li>Administración de justicia y procesos democráticos (por ejemplo, aplicación de la ley a un conjunto concreto de hechos; también los sistemas utilizados para influir en el resultado de las elecciones y el comportamiento de los votantes).</li>
+</ul>
+<p>El acuerdo Parlamento-Consejo pretende establecer obligaciones claras a estos sistemas de IA clasificados como de alto riesgo. Aunque el texto definitivo no ha sido publicado en la nota de prensa, los trabajos previos hablan de las siguientes condiciones a cumplir:</p>
+<ul>
+<li>Sistemas adecuados de evaluación y mitigación de riesgos;</li>
+<li>Alta calidad de los conjuntos de datos que alimentan el sistema para minimizar los riesgos y los resultados discriminatorios;</li>
+<li>Registro de la actividad para garantizar la trazabilidad de los resultados;</li>
+<li>Documentación detallada que proporcione toda la información necesaria sobre el sistema y su finalidad para que las autoridades evalúen su conformidad;</li>
+<li>Información clara y adecuada para el usuario;</li>
+<li>Medidas adecuadas de supervisión humana para minimizar el riesgo;</li>
+<li>Alto nivel de robustez, seguridad y precisión.</li>
+</ul>
+<p>La nota de prensa refiere que los eurodiputados lograron con éxito incluir una evaluación obligatoria del impacto de los derechos fundamentales, entre otros requisitos, aplicables también a los sectores de los seguros y la banca. Los ciudadanos tendrán derecho a presentar quejas sobre los sistemas de IA y a recibir explicaciones sobre las decisiones basadas en sistemas de IA de alto riesgo que afecten a sus derechos.</p>
+<!-- raw HTML omitted -->
+<p><!-- raw HTML omitted -->Obligaciones de transparencia para los sistemas de propósito general (GPAI)<!-- raw HTML omitted -->: Para tener en cuenta la amplia gama de tareas que los sistemas de IA pueden realizar y la rápida expansión de sus capacidades, los colegisladores han acordado que los sistemas de IA de propósito general (GPAI, por las siglas en inglés de General Purpose Artificial Intelligence), y los modelos  en los que se basan, tendrán que cumplir con los requisitos de transparencia propuestos inicialmente por el Parlamento. Estos requisitos incluyen la elaboración de documentación técnica, el cumplimiento de la legislación de derechos de autor de la UE y la difusión de resúmenes detallados sobre el contenido utilizado para la formación de los sistemas.</p>
+<p><!-- raw HTML omitted -->Obligaciones adicionales para los GPAI de alto impacto con riesgo sistémico<!-- raw HTML omitted -->: En el ámbito de la <!-- raw HTML omitted -->ciberseguridad<!-- raw HTML omitted -->, <em>«Un <!-- raw HTML omitted -->riesgo sistémico<!-- raw HTML omitted --> es todo aquello que lleve a la posibilidad de tirar abajo un sistema por completo, haciendo que colapsen además sistemas que están interconectados entre sí, a nivel global»</em>.</p>
+<p>Por lo tanto, para estos modelos, refiere la nota de prensa que los negociadores del Parlamento lograron asegurar obligaciones más estrictas. Además de cumplir determinados criterios, tendrán que llevar a cabo evaluaciones de modelos, evaluar y mitigar los riesgos sistémicos, realizar pruebas contradictorias, informar a la Comisión sobre incidentes graves, garantizar la ciberseguridad e informar sobre su eficiencia energética.</p>
+<!-- raw HTML omitted -->
+<p>Uno de los objetivos de las negociaciones ha consistido en asegurarse de que las empresas, especialmente las PYME, puedan desarrollar soluciones de IA sin la presión indebida de los gigantes de la industria que controlan la cadena de valor.</p>
+<p>Con este fin, el acuerdo promueve las llamadas <!-- raw HTML omitted -->sandbox<!-- raw HTML omitted --> regulatorias y las pruebas en el mundo real, establecidas por las autoridades nacionales para desarrollar y capacitar una IA innovadora antes de su colocación en el mercado.</p>
+<!-- raw HTML omitted -->
+<p>El incumplimiento de las normas puede dar lugar a multas que van desde los los 7,5 millones o el 1,5 % de la facturación mundial hasta los 35 millones de euros o el 7 % de la facturación mundial, dependiendo de la infracción y el tamaño de la empresa.</p>
+<!-- raw HTML omitted -->
+<p>A primera vista, los elementos generales publicados en la nota de prensa parecen referirse adecuadamente a la evaluación detallada de riesgos que se ha realizado en este proceso negociador, a partir de una primera propuesta de la Comisión. La protección de los derechos fundamentales y de las libertades públicas, del sistema democrático y el Estado de Derecho obliga a establecer estas precauciones en la Unión Europea, como principio fundamental y fundacional de su existencia. Es deseable sobre todo la transparencia y la rendición de cuentas de estos sistemas. Pero parece difícil poder regular y controlar la avalancha de aplicaciones que se nos viene. Otros entornos internacionales con menos salvaguardas desarrollarán sistemas de IA y abrirán mercados que ahora se nos hacen difíciles de imaginar. Confiemos en que la economía y la sociedad europea no queden al margen de ese desarrollo. En todo caso, el precio no debe ser la erosión de principios políticos y éticos fundamentales, por lo que esperemos que el nuevo Reglamento sirva de marco adecuado para un desarrollo ponderado y sostenible de estas tecnologías.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://umerez.eu/2023/12/09/si-me-queri.html">Si me queréi, no irse</a></h1>
+		
+
+		<a href="https://umerez.eu/2023/12/09/si-me-queri.html" class="u-url"><time class="dt-published" datetime="2023-12-09 11:33:48 &#43;0100">Dec 9, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Buenos días,</p>
+<p>Hace mucho que no os escribo. Tuve un blog que os enviaba un email periódico con los artículos publicados, pero he estado haciendo pruebas con la web y os he dejado en paz hasta ahora.</p>
+<p>No todo lo bueno dura, así que vuelvo a la carga con un nuevo alojamiento y aspecto para la web. Trato distintos temas de interés más o menos personal pero mantendré una categoría específica de Blog Legal para los artículos jurídicos<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. Para encontrar otras secciones y recomendaciones, habrá una pestaña con el mapa de la web<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</p>
+<p>Recibís este correo porque en su día os suscribisteis al blog. A partir de ahora, mi intención es volver a enviar un correo semanal con los artículos del Blog Legal, si los hay, que saldrá los viernes por la mañana.</p>
+<p>Si queréis recibirlo, no hace falta que hagáis nada. Y si no os interesa, podéis cancelar la suscripción de inmediato, en el botón de &ldquo;Unsubscribe&rdquo; del pie de este mensaje.</p>
+<p>En cualquier momento que os apetezca, podéis enviarme un comentario por email o desde la propia web, estaré encantado de charlar con vosotr@s.</p>
+<p>Que tengáis un buen día. Gracias por leer y un abrazo.</p>
+<p>Esteban Umerez</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p><!-- raw HTML omitted -->Blog Legal<!-- raw HTML omitted -->&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p><!-- raw HTML omitted -->Mapa de la web<!-- raw HTML omitted -->.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://umerez.eu/2023/12/08/please-expose-your.html" class="u-url"><time class="dt-published" datetime="2023-12-08 07:30:03 &#43;0100">Dec 8, 2023</time></a>
+
+		<div class="e-content">
+			 <p>🚀 <a href="https://rknight.me/please-expose-your-rss/">Please, Expose your RSS • Robb Knight</a></p>
+<blockquote>
+<p>Earlier this week I had a need to manually find a bunch of people&rsquo;s RSS feed links. It seemed simple enough: go to their website and look for an RSS/Subscribe link but I was surprised to find that a lot of people don&rsquo;t have a link anywhere to their feed.</p>
+<p>Even if people only ever add your website into their feed reader and let the app find the RSS feed (see below for more info on this), showing an RSS link reminds people that RSS exists, a win for the open web.<br>
+(&hellip;)<br>
+Please, expose your RSS.</p>
+</blockquote>
+<p>I&rsquo;ve always been an RSS believer so I do have my RSS feeds <em>exposed</em> in my <!-- raw HTML omitted -->contact page<!-- raw HTML omitted -->, but Robb&rsquo;s insight taught me the importance of writing my feeds into the <code>head</code> of the blog too, so I did just that.</p>
+<p>Thanks, Robb.</p>
+
+		</div>
+	  </div>
 	
 	  <div class="h-entry">
 		
@@ -60,7 +356,6 @@
 
 		<div class="e-content">
 			 <p>I had forgotten how cool <a href="https://gluon.app/">Gluon</a> by <a href="https://vincentritter.com/">@vincent</a> is. Reinstalled it and set it to be the default in my “open micro.blog” Shortcut. It’s a delight.</p>
-<p><img src="https://umerez.eu/uploads/2023/96b8e5e558.jpg" alt="Gluon app icon"></p>
 
 		</div>
 	  </div>
@@ -1234,7 +1529,7 @@ Very interesting use of text files. I want to integrate this app into my workflo
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://umerez.eu/2023/11/04/como-enlazar-a.html">Como enlazar a una sección concreta de un post</a></h1>
+			<h1><a href="https://umerez.eu/2023/11/04/como-enlazar-a.html">Cómo enlazar a una sección concreta de un post</a></h1>
 		
 
 		<a href="https://umerez.eu/2023/11/04/como-enlazar-a.html" class="u-url"><time class="dt-published" datetime="2023-11-04 09:05:26 &#43;0100">Nov 4, 2023</time></a>
@@ -12561,15 +12856,17 @@ sentido cuando se reconocía a los Colegios de Abogados la facultad de establece
 
     
     <i class="fa-solid fa-chart-line" style="color: #3988a7;"></i> <a class="tinylytics_hits" style="color: #3988a7;"></a><br>
-<a rel="me" href="https://esq.social/@eumrz" target="_blank"><i class="fa-brands fa-mastodon" style="color: #3988a7;"></i></a> · <a href="https://bsky.app/profile/umerez.eu" target="_blank"><i class="fa-solid fa-cloud-sun" style="color: #3988a7;"></i></a> · <a  href="https://www.linkedin.com/in/umerez/" target="_blank"><i class="fa-brands fa-linkedin" style="color: #3988a7;"></i></a> · <a href="https://letterbird.co/umerez" target="_blank"><i class="fa-solid fa-envelope" style="color: #3988a7;"></i></a>
+<a href="https://esq.social/@eumrz" target="_blank"><i class="fa-brands fa-mastodon" style="color: #3988a7;"></i></a> · <a href="https://bsky.app/profile/umerez.eu" target="_blank"><i class="fa-solid fa-cloud-sun" style="color: #3988a7;"></i></a> · <a  href="https://www.linkedin.com/in/umerez/" target="_blank"><i class="fa-brands fa-linkedin" style="color: #3988a7;"></i></a> · <a href="https://letterbird.co/umerez" target="_blank"><i class="fa-solid fa-envelope" style="color: #3988a7;"></i></a>
 <br>
 <a href="https://micro.blog" target="_blank">Micro.blog</a> · <a href="https://tinyformicro.blog/" target="_blank">Tiny Theme</a> · <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/deed.es" target="_blank">CC-BY-NC</a><br> 
 <a href="" class="tinylytics_webring" target="_blank"><i class="fa-solid fa-gem" style="color: #3988a7;"></i><img class="tinylytics_webring_avatar" src=""/><i class="fa-solid fa-gift" style="color: #3988a7;"></i></a>
 <br>
-
-<script src="https://tinylytics.app/embed/eNchyxtfjdE9FXyA9zLN.js?hits&kudos&webring=avatars" defer></script>
-
+ 
+<link rel="alternate" type="application/rss+xml" title="Esteban Umerez Blog" href="https://umerez.eu/feed.xml" />
+<link rel="alternate" type="application/rss+xml" title="Esteban Umerez Blog Legal" href="https://umerez.eu/categories/blog-legal/feed.xml" />
+<link rel="alternate" type="application/rss+xml" title="Esteban Umerez Blog Tech" href="https://umerez.eu/categories/tech/feed.xml" />
 <a rel="me" href="https://gravatar.com/eumrz"></a>
+<a rel="me" href="https://esq.social/@eumrz" ></a>
 
   </body>
 
