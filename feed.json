@@ -7,6 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://umerez.micro.blog/2024/02/08/paella-en-lugar.html",
+				
+				"content_html": "<p>«Paella» en lugar de arroz con cosas, tortilla con o sin cebolla, o «el Bilbao» en lugar de «el Athletic». Sus enfadáis con estas cosas porque lo tenéis todo resuelto y no sabéis aburriros.</p>\n",
+				"content_text": "«Paella» en lugar de arroz con cosas, tortilla con o sin cebolla, o «el Bilbao» en lugar de «el Athletic». Sus enfadáis con estas cosas porque lo tenéis todo resuelto y no sabéis aburriros.\n",
+				"date_published": "2024-02-08T09:46:25+01:00",
+				"url": "https://umerez.eu/2024/02/08/paella-en-lugar.html"
+			},
+			{
+				"id": "http://umerez.micro.blog/2024/02/05/have-i-told.html",
+				
+				"content_html": "<p>Have I told you lately that I love Cush Jumbo?</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://www.themoviedb.org/person/1417351-cush-jumbo\">Cush Jumbo</a> and <a href=\"https://www.themoviedb.org/person/12982-peter-capaldi\">Peter Capaldi</a> in a scene from <a href=\"https://www.themoviedb.org/tv/204490-criminal-record?language=en-US\">Criminal Records</a>.</p>\n",
+				"content_text": "Have I told you lately that I love Cush Jumbo?\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://umerez.eu/uploads/2024/cush-jumbo.png\" alt=\"Cush Jumbo and Peter Capaldi in a scene from the TV series Criminal Records\" title=\"cush jumbo.png\" border=\"0\" width=\"400\" height=\"225\" />\n\n[Cush Jumbo](https://www.themoviedb.org/person/1417351-cush-jumbo) and [Peter Capaldi](https://www.themoviedb.org/person/12982-peter-capaldi) in a scene from [Criminal Records](https://www.themoviedb.org/tv/204490-criminal-record?language=en-US).\n",
+				"date_published": "2024-02-05T21:41:27+01:00",
+				"url": "https://umerez.eu/2024/02/05/have-i-told.html",
+				"tags": ["english","cine"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2024/02/05/installing-pandoc-on.html",
+				"title": "Installing Pandoc on Apple Silicon with Homebrew · Nono Martínez Alonso",
+				"content_html": "<p>🚀 <a href=\"https://nono.ma/install-pandoc-macos-apple-silicon\">Installing Pandoc on Apple Silicon with Homebrew · Nono Martínez Alonso</a></p>\n<blockquote>\n<p>Here&rsquo;s how I installed pandoc on my MacBook Pro (13–inch, M1, 2020) to run with Rosetta 2 — not natively, but on the x86_64 architecture — until a universal binary for macOS is built that supports the arm64 architecture in new Appple Silicon Macs.</p>\n</blockquote>\n<p>Thanks a lot, Nono.Ma. I needed to know which build to choose to install Pandoc on my Mac (it&rsquo;s an M2 macbook pro) and I never remember the reference for the correct architecture (arm64 or x86_64). So you taking the time, two years ago, to document your Pandoc installation helped me a great deal.</p>\n",
+				"content_text": "🚀 [Installing Pandoc on Apple Silicon with Homebrew · Nono Martínez Alonso](https://nono.ma/install-pandoc-macos-apple-silicon)\n\n> Here's how I installed pandoc on my MacBook Pro (13–inch, M1, 2020) to run with Rosetta 2 — not natively, but on the x86_64 architecture — until a universal binary for macOS is built that supports the arm64 architecture in new Appple Silicon Macs.\n\nThanks a lot, Nono.Ma. I needed to know which build to choose to install Pandoc on my Mac (it's an M2 macbook pro) and I never remember the reference for the correct architecture (arm64 or x86_64). So you taking the time, two years ago, to document your Pandoc installation helped me a great deal.\n",
+				"date_published": "2024-02-05T08:03:09+01:00",
+				"url": "https://umerez.eu/2024/02/05/installing-pandoc-on.html",
+				"tags": ["tech","english"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2024/02/04/me-acabo-de.html",
+				
+				"content_html": "<p>Me acabo de zampar unos huevos fritos con patatas cojonudos. Los últimos en mucho tiempo. Empieza la operación «Llegar a los 50 con 20 kilos menos».</p>\n",
+				"content_text": "Me acabo de zampar unos huevos fritos con patatas cojonudos. Los últimos en mucho tiempo. Empieza la operación «Llegar a los 50 con 20 kilos menos».  \n",
+				"date_published": "2024-02-04T21:00:27+01:00",
+				"url": "https://umerez.eu/2024/02/04/me-acabo-de.html"
+			},
+			{
+				"id": "http://umerez.micro.blog/2024/02/04/watching-house-pilot.html",
+				
+				"content_html": "<p>Watching House, pilot episode, for the first time. I’d never thought I’d go inside Agent Lisbon’s nostrils. #eng</p>\n",
+				"content_text": "Watching House, pilot episode, for the first time. I’d never thought I’d go inside Agent Lisbon’s nostrils. #eng\n",
+				"date_published": "2024-02-04T20:52:56+01:00",
+				"url": "https://umerez.eu/2024/02/04/watching-house-pilot.html",
+				"tags": ["english"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2024/02/04/tira-cmica-diaria.html",
+				
+				"content_html": "<p>Tira cómica diaria de <a href=\"https://mastodon.social/@timoneda/111872535163690448\">Timoneda en Mastodon</a>. Esta viñeta de hoy en particular me ha gustado mucho. Me ha hecho reír con la ruptura de la continuidad de la tira. Así que la comparto, para que podáis disfrutar de sus viñetas diarias. <a href=\"https://micro.blog/timoneda@mastodon.social\">@timoneda@mastodon.social</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tira cómica diaria de [Timoneda en Mastodon](https://mastodon.social/@timoneda/111872535163690448). Esta viñeta de hoy en particular me ha gustado mucho. Me ha hecho reír con la ruptura de la continuidad de la tira. Así que la comparto, para que podáis disfrutar de sus viñetas diarias. [@timoneda@mastodon.social](https://micro.blog/timoneda@mastodon.social)\n\n<img src=\"uploads/2024/291e4172dddab6f4.jpg\" width=\"400\" alt=\"Tira cómica en la que uno de los personajes, en la tercera viñeta, desgarra las separaciones entre viñetas, de forma que él mismo y su acompañante caen de la viñeta segunda a la cuarta y rompe la continuidad, provocando un efecto y un pánico actual a unos personajes del pasado que caen hacia el futuro.\">\n",
+				"date_published": "2024-02-04T10:49:32+01:00",
+				"url": "https://umerez.eu/2024/02/04/tira-cmica-diaria.html",
+				"tags": ["nice stuff"]
+			},
+			{
+				"id": "http://umerez.micro.blog/2024/02/03/perfect-days-director.html",
+				
+				"content_html": "<p><a href=\"https://www.themoviedb.org/movie/976893-perfect-days?language=en-US\">Perfect Days</a></p>\n<p>Director: Wim Wenders\nMain actor: Koji Yakusho</p>\n<!-- raw HTML omitted -->\n<p>Leire and I  went to the movie theatre without having read much about this movie. We both liked it. It&rsquo;s nice, gentle and insightful. It&rsquo;s been a very joyful couple of hours.</p>\n",
+				"content_text": "[Perfect Days](https://www.themoviedb.org/movie/976893-perfect-days?language=en-US)\n\nDirector: Wim Wenders\nMain actor: Koji Yakusho\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://umerez.eu/uploads/2024/perfectdays-poster.png\" alt=\"Movie poster. Perfect Days. With a picture of the two main characters, Hirayama and Niko\" title=\"perfectdays_poster.png\" border=\"0\" width=\"411\" height=\"600\" /> \n\nLeire and I  went to the movie theatre without having read much about this movie. We both liked it. It's nice, gentle and insightful. It's been a very joyful couple of hours.\n",
+				"date_published": "2024-02-03T22:36:46+01:00",
+				"url": "https://umerez.eu/2024/02/03/perfect-days-director.html",
+				"tags": ["english","cine"]
+			},
+			{
 				"id": "http://umerez.micro.blog/2024/02/03/the-pen-is.html",
 				
 				"content_html": "<p>The pen is mightier than the keyboard. #eng</p>\n",
